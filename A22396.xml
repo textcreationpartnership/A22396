@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation to declare that all ships carying corne or other victuals or any munition of warre to or for the King of Spaine or any of his subiects shall be and ought to be esteemed as lawfull prize.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22396</idno>
+            <idno type="STC">STC 8813</idno>
+            <idno type="STC">ESTC S122687</idno>
+            <idno type="EEBO-CITATION">38161538</idno>
+            <idno type="OCLC">ocm 38161538</idno>
+            <idno type="VID">29352</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29352)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1923:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation to declare that all ships carying corne or other victuals or any munition of warre to or for the King of Spaine or any of his subiects shall be and ought to be esteemed as lawfull prize.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXV [1625]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Arms with "CR" at top.</note>
+                  <note>"Giuen at Our Honour of Hampton Court, the 31. of December, in the first yeere of Our Reigne."</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prize law --  Great Britain --  Early works to 1800.</term>
+               <term>Privateering --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Spain --  Early works to 1800.</term>
+               <term>Spain --  Commerce --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:29352:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the British royal family encircled by the order of the garter and topped by a crown, with a lion, a unicorn, a rose, and a thistle</figDesc>
+                  <head>
+                     <q>HONI SOIT QVI MAY Y PENSE</q>
+                  </head>
+                  <head>
+                     <q>DIEV ET MON DROIT</q>
+                  </head>
+                  <p>C R</p>
+               </figure> 
+               <g ref="char:leaf">❧</g> By the King. ¶ A Proclamation to declare, that all Ships carying Corne, or other Victuals, or any Munition of Warre, to, or for the King of <hi>Spaine,</hi> or any of his Subiects, ſhall be, and ought to be eſteemed as lawfull Prize.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>Oraſmuch as the many iniuries and indignities, obtruded vpon the</hi> Kings moſt excellent Maieſtie, and his moſt deare and onely ſiſter, and her children, and His royall father, of euer bleſſed memory, deceaſed, by the King of <hi>Spaine,</hi> vnder colour of treaties and alliances; the many vio<g ref="char:EOLhyphen"/>lences offered by him, to diuers of His Maieſties Subiects, in taking, ſlaying, and ranſoming diuers of them in a hoſtile manner, whileſt they intended onely their Marchandiſe at Sea; The king of <hi>Spaines</hi> reſtleſſe ambition to aſpire to an vniuerſall Monarchie, diſcouered to the whole world, to the diſquieting of that peace, which other Princes, and States his neighbours, would gladly reſt in and inioy; Haue, out of an vna<g ref="char:EOLhyphen"/>uoidable neceſſitie, drawne His moſt excellent Maieſtie, to take vp Armes againſt the ſaid King, for the defence of Himſelfe, His Dominions, and Subiects, and of other Princes and States, His Confederates and Allies, there being none other ſafe meanes for the obtaining of an aſſured Peace to Himſelfe, and His Subiects, and to His Confederates, and Allies, which His Highneſſe ſhall be euer moſt ready to imbrace, when with ſafety, and honour it may be had: His maieſtie in His Princely wiſedome and prouidence, foreſeeing, that, whileſt the ſaid King of <hi>Spaine</hi> continueth in theſe termes and courſes of Hoſtilitie, it is neither agreeable with the rules of policie, or Law of nations, to permit the ſaid King, or his ſubiects, to be furni<g ref="char:EOLhyphen"/>ſhed and ſupplied with Corne, Victuals, Armes, or prouiſion for his Shipping, Nauie, or Armes, if the ſame can be preuented. For although theſe violent hoſtilities of the ſaid King of <hi>Spaine,</hi> to the trouble of a great part of the Chriſtian Dominions, are mightily maintained by the abun<g ref="char:EOLhyphen"/>dance of his treaſure from the <hi>Indies,</hi> wherein he truſteth, and with the opinion whereof he is puffed vp: Yet it is manifeſt, that to maintaine his Armes, and renew his Shipping, his moneys, in their proper nature, would not ſuffice, if he were not continually ſupplied with Corne, &amp; other Victuals, and furniſhed with Munition, and materials for Armes, and Shipping from forreigne countreis, whereof, neither his <hi>Indies,</hi> nor <hi>Spaine,</hi> nor any other part of his owne Dominions are able to ſerue; but the ſame are knowen to bee brought into <hi>Spaine, Portugall, Burgundie,</hi> and other his countreys, from other forreigne parts, not in his owne ſubiection, and that eſpecially, from the <hi>Hans-townes,</hi> and Merchants of the <hi>North Eaſt</hi> Countreys, who for the deſire of gaine, are con<g ref="char:EOLhyphen"/>tented to furniſh the ſaid King, though to their owne extreame hazzard, and preiudice of their neighbours, with all things requiſite, to maintaine his vniuſt Warres: For this cauſe, His Maieſty being, amongſt other Princes and States, herein principally intereſſed, for the defence of Himſelfe, His Countreys, and Subiects, againſt the ſaid King of <hi>Spaines</hi> great preparations of his Nauies, and Armies by Sea, and by Land; and His Maieſty being perſwaded, that if ſuch his prouiſions for hoſtility, to be brought vnto him by Sea from forreigne parts, might be ſtayed, or interrupted, vntill the ſaid King might bee diſpoſed to liue in peace, His Maieſtie might the ſooner forbeare to continue His charge, in maintaining His forces, both by Sea and Land, which Hee is now conſtrained yeerely to renew, onely for the iuſt defence of himſelfe, and His Domini<g ref="char:EOLhyphen"/>ons, and of His Confederats, and Allyes:</p>
+            <pb facs="tcp:29352:2"/>
+            <p>Doth by theſe preſents, by the aduice of His Priuie Counſel, notifie to all maner of perſons of all conditions, that ſhal ſend or cary into <hi>Spaine, Portugal, Burgundy,</hi> or any other the ſaid King of <hi>Spaines</hi> Countreys or Dominions, any maner of Graine or other Victuals, or any manner of Prouiſions, to ſerue to build, furniſh or Arme any Ships of Warre, or any kind of Munition for the Warre, or Materials for the ſame, being not of the nature of meere Merchandize, that, as it is lawfull for His Maieſtie, being a Monarch and Prince Souereigne, and as other Kings in like caſes haue alwayes vſed to doe, Hee will not onely authorize His owne Admirals, and Captaines of His owne Ships of Warre, ſeruing on the Seas, but will alſo allow and approoue all other His Subiects, to Arme their Ships at their will, and with them to impeach and arreſt all Ships, that ſhall Saile, either out of the Eaſt parts, or out of the Low-Countreys, or from any other Parts, with intention to paſſe to <hi>Spaine, Portugal, Burgundy,</hi> or any other the King of <hi>Spaines</hi> Coun<g ref="char:EOLhyphen"/>treys or Dominions, or to any the ſaid King of <hi>Spaines</hi> Ships, being on the Seas, hauing on Board any ſuch Graine, Victuall, or prouiſions of Warre, or Furniture for ſhipping, or Ma<g ref="char:EOLhyphen"/>terials for the ſame, and the ſame to bring into the next good Port, there to bee ordered, as Goods duely forfeited for the benefit of His Maieſtie, where His Maieſties Shippes ſhall arreſt the ſame, and to the benefit of ſuch others, as being not in his Maieſties Wages, ſhall by their trauaile and aduenture haue ſtayed and arreſted ſuch Ships and Goods prohibited: Prouided, that all others, beſides the Captaines of His Maieſties owne Ships, that ſhall be diſpoſed to Arme their Ships for this purpoſe, ſhall firſt notifie their intent to the Lord high Admirall of <hi>England,</hi> making declaration of their condition, of their maner of ſhipping, of the Furniture there<g ref="char:EOLhyphen"/>of, of the number of men requiſite to ſerue therein, with their quantities of Victuall and Muniti<g ref="char:EOLhyphen"/>on, and of all other things requiſite to bee certified to the Lord Admirall, which being by him al<g ref="char:EOLhyphen"/>lowed, thereupon the Owners of the ſaid Ships, and the Captaines and Conductors thereof, to bee bound, to His Maieſties vſe, in good ſummes of money for themſelues, and, as cauſe ſhall require, to the Lord Admirall, with ſufficient Sureties, that they doe their beſt endeuour, with<g ref="char:EOLhyphen"/>out fraud, for gaine or compoſition, to arreſt ſuch Ships, hauing, as is aboueſayd, Graine, Victu<g ref="char:EOLhyphen"/>all, Armes, Munition, or Furniture for ſhipping, or any Materials for the ſame, intended to bee caried to any of the ſayd King of <hi>Spaines</hi> Dominions, or Countreys, as aforeſaid, and like<g ref="char:EOLhyphen"/>wiſe to bee bound, as is aforeſayd, that with the ſayd Ships, no harme ſhall bee wittingly done to any perſon on the Seas, being in friendſhip with his Maieſtie, and that ſhall not bee priuie to the cariage of any ſuch Graine, Victuall, Prouiſion, Furniture or Materials, into any the ſayd King of <hi>Spaines</hi> Dominions, or towards any of his Countreys, or to any the King of <hi>Spaines</hi> Ships being on the Seas: And in caſe any ſhall be found to haue committed any ſuch offence, whereby their Bonds ſhall bee forfeited, the parties damnified ſhall be fully recompen<g ref="char:EOLhyphen"/>ced for all their Loſſes and Dammages, with the ſummes of money forfeited, and otherwiſe, as there ſhall bee cauſe, and the offendors alſo ſeuerely puniſhed, according to their offences, by due courſe of Law.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Honour of Hampton Court,</hi> 
+                  <date>
+                     <hi>the 31. of December, in the firſt yeere of Our Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie. M.DC.XXV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
